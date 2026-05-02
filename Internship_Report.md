@@ -10,13 +10,10 @@
 - **Internship End Date**: 1st Feb 2026
 - **LinkedIn Profile Link**: https://www.linkedin.com/in/elangovan-p-2a4567251
 - **Project Name**: SmartJobPortal
-- **GitHub Repository Link**: https://github.com/elangovanp/upskillCampus (To be created)
+- **GitHub Repository Link**: https://github.com/ElangovanP-dev/upskillCampus (To be created)
 
 ## 2. Short Summary of Implementation
-The Smart Job Portal is a full-stack web application designed to bridge the gap between job seekers and recruiters. 
-The backend is built using **Java Spring Boot**, featuring secure JWT-based authentication, Role-Based Access Control (RBAC) for Candidates and Recruiters, and seamless RESTful APIs for managing job postings and applications. The database is managed using **MySQL** with Spring Data JPA for object-relational mapping.
-
-The frontend is a dynamic, responsive Single Page Application (SPA) built with **React.js** and **Vite**. It features a modern, glassmorphism-inspired UI with smooth animations, custom CSS, and state management. The integration of backend APIs allows candidates to browse, search, and apply for jobs, while recruiters can securely post jobs and track applications in real-time.
+The Smart Job Portal is a backend-focused application developed using Core Java and Spring Boot. It provides RESTful APIs for managing job postings, user authentication, and application tracking. The system implements Object-Oriented Programming concepts such as encapsulation, inheritance, and abstraction. It also uses JWT for secure authentication and MySQL for data storage. The frontend is built using React, but the primary focus of this project is on backend logic and Java-based implementation.
 
 ## 3. Project Architecture and Modules
 ### Backend Modules (Spring Boot)
