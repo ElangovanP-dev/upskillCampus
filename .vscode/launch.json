@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SmartJobPortalApplication<portal>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.smartjob.portal.SmartJobPortalApplication",
+            "projectName": "portal",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
